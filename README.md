@@ -1,1 +1,1 @@
-# LibC Library
+# Libc Library
